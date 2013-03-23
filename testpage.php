@@ -1,4 +1,5 @@
 <?php
+# ContentForge 0.1.1
 # Testing database connection.
 # If databases were created properly, this page will work.
 # If not, follow the directions in install.txt.
